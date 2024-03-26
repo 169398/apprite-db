@@ -21,3 +21,4 @@ Explore social media with this user-friendly platform that has a nice look and l
 - Shadcn
 - Tailwind CSS
 
+
